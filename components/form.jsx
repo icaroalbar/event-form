@@ -56,19 +56,19 @@ const Form = () => {
                     <select name="consultor" id="consultor" className="block my-2 border border-blue-900 p-1 rounded-md" required>
                         <option defaultValue>Selecione o cunsultor...</option>
                         <option value="0">Agatha Medeiros</option>
-                        <option value="0">Alessandra Tavares</option>
-                        <option value="0">Claudio  Amoedo</option>
-                        <option value="0">Eduardo Torres</option>
-                        <option value="0">Jocyele Batista</option>
-                        <option value="0">Jose Lucas</option>
-                        <option value="0">Leandro Ribeiro</option>
-                        <option value="0">Luciano Deccache</option>
-                        <option value="0">Lucy Deccache</option>
-                        <option value="1">Luiz Paulo</option>
-                        <option value="0">Marco Alves</option>
-                        <option value="0">Felipe Rodrigues</option>
-                        <option value="2">Patrícia Cruz</option>
-                        <option value='3'>Outros</option>
+                        <option value="1">Alessandra Tavares</option>
+                        <option value="2">Claudio  Amoedo</option>
+                        <option value="3">Eduardo Torres</option>
+                        <option value="4">Jocyele Batista</option>
+                        <option value="5">Jose Lucas</option>
+                        <option value="6">Leandro Ribeiro</option>
+                        <option value="7">Luciano Deccache</option>
+                        <option value="8">Lucy Deccache</option>
+                        <option value="9">Luiz Paulo</option>
+                        <option value="10">Marco Alves</option>
+                        <option value="11">Felipe Rodrigues</option>
+                        <option value="22">Patrícia Cruz</option>
+                        <option value='13'>Outros</option>
                     </select>
                 </label>
                 <label>

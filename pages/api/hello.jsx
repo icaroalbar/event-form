@@ -30,12 +30,12 @@ let vendedorEmail = vendedor.email
 
 
 let transporter = nodemailer.createTransport({
-    host: 'email-smtp.us-east-1.amazonaws.com',
-    port: 465,
-    secure: true,
+    host: process.env.NEXT_PUBLIC_HOST,
+    port: process.env.NEXT_PUBLIC_PORT,
+    secure: process.env.NEXT_PUBLIC_SECURE,
     auth: {
-        user: 'AKIA6JQEFCPPAZGMEHF6',
-        pass: 'BEtrjzS6npEP3WhEu5yqtTekyRsLGC4JQmPCU3xspHWc'
+        user: process.env.NEXT_PUBLIC_USER,
+        pass: process.env.NEXT_PUBLIC_PASS,
     }
 })
 

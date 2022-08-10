@@ -59,7 +59,7 @@ const Form = () => {
                         <option value="1">Alessandra Tavares</option>
                         <option value="2">Claudio  Amoedo</option>
                         <option value="3">Eduardo Torres</option>
-                        <option value="4">Eduardo Torres</option>
+                        <option value="4">Icaro Albar</option>
                         <option value="5">Jocyele Batista</option>
                         <option value="6">Jose Lucas</option>
                         <option value="7">Leandro Ribeiro</option>

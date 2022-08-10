@@ -59,16 +59,17 @@ const Form = () => {
                         <option value="1">Alessandra Tavares</option>
                         <option value="2">Claudio  Amoedo</option>
                         <option value="3">Eduardo Torres</option>
-                        <option value="4">Jocyele Batista</option>
-                        <option value="5">Jose Lucas</option>
-                        <option value="6">Leandro Ribeiro</option>
-                        <option value="7">Luciano Deccache</option>
-                        <option value="8">Lucy Deccache</option>
-                        <option value="9">Luiz Paulo</option>
-                        <option value="10">Marco Alves</option>
-                        <option value="11">Felipe Rodrigues</option>
-                        <option value="22">Patrícia Cruz</option>
-                        <option value='13'>Outros</option>
+                        <option value="4">Eduardo Torres</option>
+                        <option value="5">Jocyele Batista</option>
+                        <option value="6">Jose Lucas</option>
+                        <option value="7">Leandro Ribeiro</option>
+                        <option value="8">Luciano Deccache</option>
+                        <option value="9">Lucy Deccache</option>
+                        <option value="10">Luiz Paulo</option>
+                        <option value="11">Marco Alves</option>
+                        <option value="12">Felipe Rodrigues</option>
+                        <option value="13">Patrícia Cruz</option>
+                        <option value='14'>Outros</option>
                     </select>
                 </label>
                 <label>

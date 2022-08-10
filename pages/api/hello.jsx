@@ -10,6 +10,7 @@ export default function sendMail(req, res) {
         {nome: 'Claudio  Amoedo', email: 'claudio.amoedo@hpcap.com.br'},
         {nome: 'Eduardo Torres', email: 'eduardo.torres@hpcap.com.br'},
         {nome: 'Felipe Rodrigues', email: 'felipe.rodrigues@bankhp.com.br'},
+        {nome: 'Icaro Albar', email: 'icaro.albar@hpcap.com.br'},
         {nome: 'Jocyele Batista', email: 'jocyele.batista@hpcap.com.br'},
         {nome: 'Jose Lucas', email: 'jose.lucas@hpcap.com.br'},
         {nome: 'Leandro Ribeiro', email: 'leandro.ribeiro@hpcap.com.br'},

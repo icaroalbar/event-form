@@ -42,7 +42,7 @@ let transporter = nodemailer.createTransport({
 
 transporter.sendMail({
     from: "Contato Grupo HP <icaro.albar@gmail.com>",
-    to: `felipe.castro@hpcap.com.br, ${vendedorEmail}`,
+    to: `icaro.albar@hpcap.com.br, ${vendedorEmail}`,
     subject: "Mensagem do site",
     text: `${req.body.nome}`,
     html: `<style>

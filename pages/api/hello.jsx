@@ -30,11 +30,11 @@ export default function sendMail(req, res) {
 
 
     let transporter = nodemailer.createTransport({
-        host: "smtp.mailtrap.io",
-        port: 2525,
+        host: process.env.NEXT_PUBLIC_HOST,
+        port: process.env.NEXT_PUBLIC_PORT,
         auth: {
-            user: "222bae44635930",
-            pass: "ab001434742ceb"
+            user: process.env.NEXT_PUBLIC_USER,
+            pass: process.env.NEXT_PUBLIC_PASS
         }
     });
 
